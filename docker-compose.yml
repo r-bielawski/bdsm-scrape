@@ -1,0 +1,45 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gemini_bdsm_app
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      APP_DB_HOST: db
+      APP_DB_USER: gemini_mysql
+      APP_DB_PASSWORD: chujwdupe007
+      APP_DB_NAME: gemini_bdsm
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: ["php", "-S", "0.0.0.0:8080", "-t", "/app"]
+    ports:
+      - "8099:8080"
+
+  db:
+    image: mariadb:10.11
+    container_name: gemini_bdsm_db
+    restart: unless-stopped
+    command: ["--character-set-server=utf8mb4", "--collation-server=utf8mb4_unicode_ci"]
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: gemini_bdsm
+      MYSQL_USER: gemini_mysql
+      MYSQL_PASSWORD: chujwdupe007
+    ports:
+      - "3307:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./db/gemini_bdsm_structure.sql:/docker-entrypoint-initdb.d/01_structure.sql:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-proot"]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  db_data:

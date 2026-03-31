@@ -1,0 +1,1127 @@
+To: gemini@esemeski.com
+Subject: Nowe Profile BDSM
+
+Array
+(
+    [0] => Array
+        (
+            [profile_id] => 136089
+            [nick] => Zanfra
+            [motto] => --
+            [orientacja] => Uległa / uległy
+            [miasto] => Zielona Góra
+            [wiek] => 20
+            [waga] => 53 kg
+            [wzrost] => 164 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [1] => Array
+        (
+            [profile_id] => 135654
+            [nick] => katie25
+            [motto] => Młoda uległa 
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 25
+            [waga] => 50 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [2] => Array
+        (
+            [profile_id] => 134710
+            [nick] => DreamerGirl
+            [motto] => Uległa marzycielka
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 28
+            [waga] => 58 kg
+            [wzrost] => 162 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [3] => Array
+        (
+            [profile_id] => 130265
+            [nick] => suka dla Pani
+            [motto] => Atrakcyjna suka pozna Panią
+            [orientacja] => Uległa / uległy
+            [miasto] => Gorzów Wielkopolski
+            [wiek] => 24
+            [waga] => 58 kg
+            [wzrost] => 166 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [4] => Array
+        (
+            [profile_id] => 105098
+            [nick] => MonikaLes89
+            [motto] => Niedoświadczona suczka szuka Pani
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 26
+            [waga] => 61 kg
+            [wzrost] => 168 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [5] => Array
+        (
+            [profile_id] => 132624
+            [nick] => UYScuti
+            [motto] => Zmienna.
+            [orientacja] => Uległa / uległy
+            [miasto] => Wrocław
+            [wiek] => 21
+            [waga] => 5 kg
+            [wzrost] => 70 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [6] => Array
+        (
+            [profile_id] => 122401
+            [nick] => uleglasuka86
+            [motto] => niewolnica, uległa kobieta 
+            [orientacja] => Uległa / uległy
+            [miasto] => Kielce
+            [wiek] => 30
+            [waga] => 53 kg
+            [wzrost] => 168 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [7] => Array
+        (
+            [profile_id] => 135679
+            [nick] => AlexMarcelina17
+            [motto] => Cicha, uległa osóbka.
+            [orientacja] => Uległa / uległy
+            [miasto] => Piła
+            [wiek] => 18
+            [waga] => 55 kg
+            [wzrost] => 169 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [8] => Array
+        (
+            [profile_id] => 120737
+            [nick] => sukaulegla
+            [motto] => ..
+            [orientacja] => Uległa / uległy
+            [miasto] => Łódź
+            [wiek] => 28
+            [waga] => 60 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [9] => Array
+        (
+            [profile_id] => 98582
+            [nick] => niemiecki uległ
+            [motto] => szukając mojego właściciela
+            [orientacja] => Uległa / uległy
+            [miasto] => Łódź
+            [wiek] => 22
+            [waga] => 60 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [10] => Array
+        (
+            [profile_id] => 127104
+            [nick] => Czarna Lilia
+            [motto] => Zepsuty zwiędły kwiat
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 23
+            [waga] => 54 kg
+            [wzrost] => 160 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [11] => Array
+        (
+            [profile_id] => 136244
+            [nick] => Lumi
+            [motto] => Pełna życia
+            [orientacja] => Uległa / uległy
+            [miasto] => Katowice
+            [wiek] => 21
+            [waga] => 60 kg
+            [wzrost] => 163 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [12] => Array
+        (
+            [profile_id] => 128861
+            [nick] => aniakowalska123
+            [motto] => Uległa suka szuka brutalnych sadystów i skurwieli.
+            [orientacja] => Uległa / uległy
+            [miasto] => Kielce
+            [wiek] => 28
+            [waga] => 58 kg
+            [wzrost] => 168 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [13] => Array
+        (
+            [profile_id] => 118164
+            [nick] => vivien
+            [motto] => uległa szuka Pana
+            [orientacja] => Uległa / uległy
+            [miasto] => Gdańsk
+            [wiek] => 19
+            [waga] => 47 kg
+            [wzrost] => 160 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [14] => Array
+        (
+            [profile_id] => 133823
+            [nick] => Innovation
+            [motto] => Zapatrz się na mnie i zostań na dłużej:)
+            [orientacja] => Uległa / uległy
+            [miasto] => Lublin
+            [wiek] => 25
+            [waga] => 5 kg
+            [wzrost] => 166 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [15] => Array
+        (
+            [profile_id] => 136021
+            [nick] => subbutterfly89
+            [motto] => Perwersyjna, wesoła uległa szuka Dominy
+            [orientacja] => Uległa / uległy
+            [miasto] => Poznań
+            [wiek] => 26
+            [waga] => 52 kg
+            [wzrost] => 158 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [16] => Array
+        (
+            [profile_id] => 134553
+            [nick] => Nana
+            [motto] => Dam Ci to czego chcesz.
+            [orientacja] => Uległa / uległy
+            [miasto] => Łódź
+            [wiek] => 21
+            [waga] => 54 kg
+            [wzrost] => 166 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [17] => Array
+        (
+            [profile_id] => 136097
+            [nick] => ohseriously
+            [motto] => uległa z małym doświadczeniem
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 18
+            [waga] => 45 kg
+            [wzrost] => 156 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [18] => Array
+        (
+            [profile_id] => 135320
+            [nick] => Rozwydrzona
+            [motto] => Rozwydrzona księżniczka potrzebuje nauczki..
+            [orientacja] => Uległa / uległy
+            [miasto] => Bydgoszcz
+            [wiek] => 29
+            [waga] => 54 kg
+            [wzrost] => 175 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [19] => Array
+        (
+            [profile_id] => 124938
+            [nick] => natalias
+            [motto] => Młoda,niedoświadczona
+            [orientacja] => Uległa / uległy
+            [miasto] => Olsztyn
+            [wiek] => 22
+            [waga] => 50 kg
+            [wzrost] => 171 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [20] => Array
+        (
+            [profile_id] => 95062
+            [nick] => ona27
+            [motto] => Złożona ze skrajności..
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 28
+            [waga] => 62 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [21] => Array
+        (
+            [profile_id] => 103910
+            [nick] => ŚpiącaCurewna
+            [motto] => Cuckquean. 
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 22
+            [waga] => 58 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [22] => Array
+        (
+            [profile_id] => 135935
+            [nick] => annieannie
+            [motto] => dziewczyn(k)a szuka domino  20-23 lata
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 21
+            [waga] => 49 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [23] => Array
+        (
+            [profile_id] => 133201
+            [nick] => onadlaniej
+            [motto] => .
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 27
+            [waga] => 55 kg
+            [wzrost] => 167 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [24] => Array
+        (
+            [profile_id] => 74464
+            [nick] => GangBangBitch
+            [motto] => Uległa suczka dla dużych dominujących panów
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 28
+            [waga] => 59 kg
+            [wzrost] => 172 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [25] => Array
+        (
+            [profile_id] => 93366
+            [nick] => milagross
+            [motto] => przyjemnie z pazurem
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 30
+            [waga] => 45 kg
+            [wzrost] => 150 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [26] => Array
+        (
+            [profile_id] => 135934
+            [nick] => wiki17
+            [motto] => jestem uległa choć niezawsze
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 18
+            [waga] => 54 kg
+            [wzrost] => 165 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [27] => Array
+        (
+            [profile_id] => 136001
+            [nick] => ShotMeDown
+            [motto] => A little bit of...
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 25
+            [waga] => 60 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [28] => Array
+        (
+            [profile_id] => 76274
+            [nick] => malinowasuczka
+            [motto] => Namiętny brutal poszukiwany
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 30
+            [waga] => 45 kg
+            [wzrost] => 150 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [29] => Array
+        (
+            [profile_id] => 135955
+            [nick] => Lilith92
+            [motto] => Szukam uległej dla swojego Pana i siebie
+            [orientacja] => Uległa / uległy
+            [miasto] => Gdańsk
+            [wiek] => 23
+            [waga] => 55 kg
+            [wzrost] => 163 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [30] => Array
+        (
+            [profile_id] => 135767
+            [nick] => Majka90
+            [motto] => Pełna kontrastów. 
+            [orientacja] => Uległa / uległy
+            [miasto] => Poznań
+            [wiek] => 25
+            [waga] => 52 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [31] => Array
+        (
+            [profile_id] => 129636
+            [nick] => basiul
+            [motto] => Niesmiala wrazliwa romantyczna
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 29
+            [waga] => 52 kg
+            [wzrost] => 160 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [32] => Array
+        (
+            [profile_id] => 133094
+            [nick] => maddie
+            [motto] => samodzielnie myśląca
+            [orientacja] => Uległa / uległy
+            [miasto] => Szczecin
+            [wiek] => 27
+            [waga] => 55 kg
+            [wzrost] => 169 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [33] => Array
+        (
+            [profile_id] => 135635
+            [nick] => AliceSimpson1
+            [motto] => Uległa szuka swojego Pana.
+            [orientacja] => Uległa / uległy
+            [miasto] => Piła
+            [wiek] => 18
+            [waga] => 5 kg
+            [wzrost] => 168 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [34] => Array
+        (
+            [profile_id] => 135209
+            [nick] => angela2200
+            [motto] => Młoda dziewczyna szukająca Pana
+            [orientacja] => Uległa / uległy
+            [miasto] => Otwock
+            [wiek] => 22
+            [waga] => 51 kg
+            [wzrost] => 167 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [35] => Array
+        (
+            [profile_id] => 130300
+            [nick] => MalaAleOdwazna
+            [motto] => Szukam wyrozumialego Pana
+            [orientacja] => Uległa / uległy
+            [miasto] => Rzeszów
+            [wiek] => 25
+            [waga] => 58 kg
+            [wzrost] => 164 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [36] => Array
+        (
+            [profile_id] => 108753
+            [nick] => Lena19
+            [motto] => Słowa czynią prawdę ale i iluzję. 
+            [orientacja] => Uległa / uległy
+            [miasto] => Opole
+            [wiek] => 20
+            [waga] => 55 kg
+            [wzrost] => 173 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [37] => Array
+        (
+            [profile_id] => 102914
+            [nick] => Slodka17
+            [motto] => Napisz a się dowiesz :):*
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 20
+            [waga] => 59 kg
+            [wzrost] => 164 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [38] => Array
+        (
+            [profile_id] => 136184
+            [nick] => gangbanglover
+            [motto] => ktoś chętny na gangbang
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 23
+            [waga] => 60 kg
+            [wzrost] => 172 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [39] => Array
+        (
+            [profile_id] => 135624
+            [nick] => twojasuka01
+            [motto] => uległa szuka swego pana
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 23
+            [waga] => 59 kg
+            [wzrost] => 172 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [40] => Array
+        (
+            [profile_id] => 93367
+            [nick] => joujoux
+            [motto] => Fucking and punching.
+            [orientacja] => Uległa / uległy
+            [miasto] => Gdańsk
+            [wiek] => 27
+            [waga] => 50 kg
+            [wzrost] => 160 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [41] => Array
+        (
+            [profile_id] => 136093
+            [nick] => malinka0302
+            [motto] => Młoda i niedoświadczona suczka szuka swojej Pani
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 20
+            [waga] => 58 kg
+            [wzrost] => 168 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [42] => Array
+        (
+            [profile_id] => 110348
+            [nick] => słodka27latka
+            [motto] => Dla interesujących mężczyzn i kobiet :)
+            [orientacja] => Uległa / uległy
+            [miasto] => Gdynia
+            [wiek] => 29
+            [waga] => 60 kg
+            [wzrost] => 163 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [43] => Array
+        (
+            [profile_id] => 82305
+            [nick] => Sexidupcia
+            [motto] => Szukam
+            [orientacja] => Uległa / uległy
+            [miasto] => Zielona Góra
+            [wiek] => 20
+            [waga] => 52 kg
+            [wzrost] => 162 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [44] => Array
+        (
+            [profile_id] => 127877
+            [nick] => SzukajacaPracy
+            [motto] => Szukajaca Pracy
+            [orientacja] => Uległa / uległy
+            [miasto] => Wrocław
+            [wiek] => 30
+            [waga] => 56 kg
+            [wzrost] => 176 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [45] => Array
+        (
+            [profile_id] => 136168
+            [nick] => Annna
+            [motto] => Bardzo uległa.
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 27
+            [waga] => 56 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [46] => Array
+        (
+            [profile_id] => 135989
+            [nick] => Emcisek
+            [motto] => Początkująca suka szuka trsera 
+            [orientacja] => Uległa / uległy
+            [miasto] => Słupsk
+            [wiek] => 18
+            [waga] => 42 kg
+            [wzrost] => 159 cm
+            [sponsoring] => oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [47] => Array
+        (
+            [profile_id] => 125617
+            [nick] => Mała Dama
+            [motto] => ...
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 29
+            [waga] => 55 kg
+            [wzrost] => 154 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [48] => Array
+        (
+            [profile_id] => 136259
+            [nick] => pajęczaa
+            [motto] => :)
+            [orientacja] => Uległa / uległy
+            [miasto] => Toruń
+            [wiek] => 22
+            [waga] => 62 kg
+            [wzrost] => 176 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [49] => Array
+        (
+            [profile_id] => 125852
+            [nick] => adaa
+            [motto] => .
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 30
+            [waga] => 59 kg
+            [wzrost] => 166 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [50] => Array
+        (
+            [profile_id] => 135474
+            [nick] => Metalicana
+            [motto] => :)
+            [orientacja] => Uległa / uległy
+            [miasto] => Toruń
+            [wiek] => 19
+            [waga] => 60 kg
+            [wzrost] => 171 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [51] => Array
+        (
+            [profile_id] => 135481
+            [nick] => Cangiante
+            [motto] => Szukam uleglej 
+            [orientacja] => Uległa / uległy
+            [miasto] => Bydgoszcz
+            [wiek] => 19
+            [waga] => 60 kg
+            [wzrost] => 172 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [52] => Array
+        (
+            [profile_id] => 75647
+            [nick] => rudzia1322
+            [motto] => Ulegla i krnabrna!
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 29
+            [waga] => 60 kg
+            [wzrost] => 167 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [53] => Array
+        (
+            [profile_id] => 135019
+            [nick] => myNameisMagic
+            [motto] => Uległa i chętna do nauki ;)
+            [orientacja] => Uległa / uległy
+            [miasto] => Gdańsk
+            [wiek] => 21
+            [waga] => 53 kg
+            [wzrost] => 157 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [54] => Array
+        (
+            [profile_id] => 129127
+            [nick] => SSMM
+            [motto] => napisz i sie przekonaj ze warto:)
+            [orientacja] => Uległa / uległy
+            [miasto] => Łódź
+            [wiek] => 20
+            [waga] => 60 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [55] => Array
+        (
+            [profile_id] => 121633
+            [nick] => NovaSu
+            [motto] => uparta
+            [orientacja] => Uległa / uległy
+            [miasto] => Bielsk Podlaski
+            [wiek] => 21
+            [waga] => 61 kg
+            [wzrost] => 170 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [56] => Array
+        (
+            [profile_id] => 136046
+            [nick] => mala1
+            [motto] => Jestem tu, bo moge!!!
+            [orientacja] => Uległa / uległy
+            [miasto] => Kielce
+            [wiek] => 18
+            [waga] => 47 kg
+            [wzrost] => 161 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [57] => Array
+        (
+            [profile_id] => 129121
+            [nick] => Wredna18
+            [motto] => :)
+            [orientacja] => Uległa / uległy
+            [miasto] => Chojnice
+            [wiek] => 20
+            [waga] => 50 kg
+            [wzrost] => 158 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [58] => Array
+        (
+            [profile_id] => 129945
+            [nick] => JulietteNowa90
+            [motto] => Niedoświadczona
+            [orientacja] => Uległa / uległy
+            [miasto] => Warszawa
+            [wiek] => 26
+            [waga] => 60 kg
+            [wzrost] => 168 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [59] => Array
+        (
+            [profile_id] => 129898
+            [nick] => Jezebel
+            [motto] => rozglądam się...
+            [orientacja] => Uległa / uległy
+            [miasto] => Wrocław
+            [wiek] => 27
+            [waga] => 52 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [60] => Array
+        (
+            [profile_id] => 130481
+            [nick] => Nowicjuszka00
+            [motto] => Szukam Pana który wprowadzi mnie w klimat.
+            [orientacja] => Uległa / uległy
+            [miasto] => Katowice
+            [wiek] => 19
+            [waga] => 58 kg
+            [wzrost] => 167 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [61] => Array
+        (
+            [profile_id] => 135101
+            [nick] => Ciasteczkowa
+            [motto] => Młoda uległa szuka Pana. 
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 18
+            [waga] => 60 kg
+            [wzrost] => 156 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [62] => Array
+        (
+            [profile_id] => 135677
+            [nick] => nieepoprawna
+            [motto] => Niepoprawna.. 
+            [orientacja] => Uległa / uległy
+            [miasto] => Brzesko
+            [wiek] => 25
+            [waga] => 50 kg
+            [wzrost] => 158 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [63] => Array
+        (
+            [profile_id] => 72261
+            [nick] => uleglasuniaipan
+            [motto] => PARA KRAKÓW REAL 
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 25
+            [waga] => 52 kg
+            [wzrost] => 160 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [64] => Array
+        (
+            [profile_id] => 135854
+            [nick] => wróbelek
+            [motto] => taka ja
+            [orientacja] => Uległa / uległy
+            [miasto] => Żywiec
+            [wiek] => 29
+            [waga] => 59 kg
+            [wzrost] => 175 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [65] => Array
+        (
+            [profile_id] => 124904
+            [nick] => lili5
+            [motto] => delikatna
+            [orientacja] => Uległa / uległy
+            [miasto] => Poznań
+            [wiek] => 23
+            [waga] => 54 kg
+            [wzrost] => 170 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [66] => Array
+        (
+            [profile_id] => 134305
+            [nick] => Victis22
+            [motto] => Młoda atrakcyjna uległa
+            [orientacja] => Uległa / uległy
+            [miasto] => Rzeszów
+            [wiek] => 20
+            [waga] => 60 kg
+            [wzrost] => 176 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [67] => Array
+        (
+            [profile_id] => 123837
+            [nick] => ereszkigal
+            [motto] => uległa kobieca
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 30
+            [waga] => 57 kg
+            [wzrost] => 173 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [68] => Array
+        (
+            [profile_id] => 135743
+            [nick] => MłodaDama
+            [motto] => Młodziutka szuka dojrzałego
+            [orientacja] => Uległa / uległy
+            [miasto] => Łódź
+            [wiek] => 20
+            [waga] => 60 kg
+            [wzrost] => 170 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [69] => Array
+        (
+            [profile_id] => 129893
+            [nick] => mała sunia
+            [motto] => ...
+            [orientacja] => Uległa / uległy
+            [miasto] => Zabrze
+            [wiek] => 25
+            [waga] => 52 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [70] => Array
+        (
+            [profile_id] => 73971
+            [nick] => Cherry
+            [motto] => Przerwa
+            [orientacja] => Uległa / uległy
+            [miasto] => Poznań
+            [wiek] => 21
+            [waga] => 55 kg
+            [wzrost] => 166 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => lekko
+        )
+
+    [71] => Array
+        (
+            [profile_id] => 134328
+            [nick] => Intrygująca00
+            [motto] => Zagmatwana, stanowiąca wyzwanie uległa dusz..
+            [orientacja] => Uległa / uległy
+            [miasto] => Rybnik
+            [wiek] => 22
+            [waga] => 55 kg
+            [wzrost] => 173 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [72] => Array
+        (
+            [profile_id] => 135739
+            [nick] => Rossie
+            [motto] => just me
+            [orientacja] => Uległa / uległy
+            [miasto] => Bytom
+            [wiek] => 25
+            [waga] => 52 kg
+            [wzrost] => 169 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [73] => Array
+        (
+            [profile_id] => 110225
+            [nick] => nemhain
+            [motto] => Jeśli szukasz karnej suki ,kup labradorkę.
+            [orientacja] => Uległa / uległy
+            [miasto] => Szczecin
+            [wiek] => 28
+            [waga] => 50 kg
+            [wzrost] => 160 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [74] => Array
+        (
+            [profile_id] => 136146
+            [nick] => avinashi
+            [motto] => suka o ambiwalentnej naturze
+            [orientacja] => Uległa / uległy
+            [miasto] => Rzeszów
+            [wiek] => 24
+            [waga] => 54 kg
+            [wzrost] => 169 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [75] => Array
+        (
+            [profile_id] => 134174
+            [nick] => shira
+            [motto] => Nowa
+            [orientacja] => Uległa / uległy
+            [miasto] => Wrocław
+            [wiek] => 19
+            [waga] => 58 kg
+            [wzrost] => 169 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [76] => Array
+        (
+            [profile_id] => 133852
+            [nick] => suniabdsm
+            [motto] => Ostra su
+            [orientacja] => Uległa / uległy
+            [miasto] => Szczecin
+            [wiek] => 30
+            [waga] => 47 kg
+            [wzrost] => 160 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [77] => Array
+        (
+            [profile_id] => 133290
+            [nick] => kopytkozsosem
+            [motto] => Młoda seksowna kobieta
+            [orientacja] => Uległa / uległy
+            [miasto] => Częstochowa
+            [wiek] => 19
+            [waga] => 55 kg
+            [wzrost] => 164 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => bardzo ostro
+        )
+
+    [78] => Array
+        (
+            [profile_id] => 135670
+            [nick] => Natalii69
+            [motto] => Wymagająca Suka
+            [orientacja] => Uległa / uległy
+            [miasto] => Kraków
+            [wiek] => 27
+            [waga] => 57 kg
+            [wzrost] => 165 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+    [79] => Array
+        (
+            [profile_id] => 128663
+            [nick] => pantyline
+            [motto] => ***
+            [orientacja] => Uległa / uległy
+            [miasto] => Katowice
+            [wiek] => 20
+            [waga] => 56 kg
+            [wzrost] => 171 cm
+            [sponsoring] => nie oczekuję pieniędzy za spotkanie
+            [lekko_ostro] => ostro
+        )
+
+)
+

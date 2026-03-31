@@ -160,6 +160,7 @@ $accounts = \R::getAll(
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="no-referrer">
     <title>Gemini BDSM Wrapper</title>
     <style>
         :root {
@@ -789,7 +790,7 @@ $accounts = \R::getAll(
 
                             <div class="profile-actions">
                                 <div class="left">
-                                        <a class="btn btn-outline" href="https://bdsm.pl/user.php?id=<?= $pid ?>" target="_blank" rel="noreferrer">Otwórz profil</a>
+                                        <a class="btn btn-outline" href="https://bdsm.pl/user.php?id=<?= $pid ?>" target="_blank" rel="noreferrer noopener" referrerpolicy="no-referrer">Otwórz profil</a>
                                         <button type="button" class="btn btn-outline btn-desc">Opis i zdjęcia</button>
                                         <button type="button" class="btn btn-primary btn-send">Wyślij wiadomość</button>
                                     </div>
@@ -840,7 +841,7 @@ $accounts = \R::getAll(
                 </div>
             </div>
             <div class="modal-foot">
-                <a id="profileModalLink" href="#" target="_blank" rel="noreferrer">Otwórz na bdsm.pl</a>
+                <a id="profileModalLink" href="#" target="_blank" rel="noreferrer noopener" referrerpolicy="no-referrer">Otwórz na bdsm.pl</a>
                 <button type="button" class="secondary" id="profileModalClose2">Zamknij</button>
             </div>
         </div>
@@ -879,7 +880,7 @@ $accounts = \R::getAll(
                 </form>
             </div>
             <div class="modal-foot">
-                <a id="sendModalLink" href="#" target="_blank" rel="noreferrer">Otwórz profil na bdsm.pl</a>
+                <a id="sendModalLink" href="#" target="_blank" rel="noreferrer noopener" referrerpolicy="no-referrer">Otwórz profil na bdsm.pl</a>
                 <button type="button" class="secondary" id="sendModalClose2">Zamknij</button>
             </div>
         </div>

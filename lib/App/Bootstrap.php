@@ -16,6 +16,7 @@ class Bootstrap
 
         if (PHP_SAPI !== 'cli') {
             header('Content-Type: text/html; charset=UTF-8');
+            header('Referrer-Policy: no-referrer');
         }
 
         mb_internal_encoding('UTF-8');
@@ -26,4 +27,3 @@ class Bootstrap
         SchemaMigrator::migrate();
     }
 }
-
